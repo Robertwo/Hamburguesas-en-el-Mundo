@@ -14,6 +14,7 @@
 		34C69E971C5ED039006F35CE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 34C69E951C5ED039006F35CE /* LaunchScreen.storyboard */; };
 		34C69EA21C5ED039006F35CE /* Hamburguesas_en_el_MundoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34C69EA11C5ED039006F35CE /* Hamburguesas_en_el_MundoTests.swift */; };
 		34C69EAD1C5ED039006F35CE /* Hamburguesas_en_el_MundoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34C69EAC1C5ED039006F35CE /* Hamburguesas_en_el_MundoUITests.swift */; };
+		34C69EBB1C5ED08D006F35CE /* Datos.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34C69EBA1C5ED08D006F35CE /* Datos.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		34C69EA81C5ED039006F35CE /* Hamburguesas en el MundoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Hamburguesas en el MundoUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		34C69EAC1C5ED039006F35CE /* Hamburguesas_en_el_MundoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hamburguesas_en_el_MundoUITests.swift; sourceTree = "<group>"; };
 		34C69EAE1C5ED039006F35CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		34C69EBA1C5ED08D006F35CE /* Datos.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Datos.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				34C69E931C5ED039006F35CE /* Assets.xcassets */,
 				34C69E951C5ED039006F35CE /* LaunchScreen.storyboard */,
 				34C69E981C5ED039006F35CE /* Info.plist */,
+				34C69EBA1C5ED08D006F35CE /* Datos.swift */,
 			);
 			path = "Hamburguesas en el Mundo";
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			files = (
 				34C69E8F1C5ED039006F35CE /* ViewController.swift in Sources */,
 				34C69E8D1C5ED039006F35CE /* AppDelegate.swift in Sources */,
+				34C69EBB1C5ED08D006F35CE /* Datos.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
